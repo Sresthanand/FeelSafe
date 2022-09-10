@@ -1,0 +1,31 @@
+.mainRegister {
+    height: 100%;
+    width: 100%;
+    background-color: #f37171;
+    position: absolute;
+}
+
+.formDiv{
+    padding:3%;
+    background-color: white;
+}
+
+.innerRegisterDiv {
+    padding: 3%;
+    background-color:#f37171;
+    display: flex;
+    align-items: center;
+    height: 80%;
+    width: 90%;
+    margin: 5%;
+}
+
+.inputDiv {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    width: 60%;
+}
+
+.imageDiv {
+    padding: 5%;
+}

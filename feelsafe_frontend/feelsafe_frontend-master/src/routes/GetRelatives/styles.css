@@ -1,0 +1,37 @@
+.mainRegister {
+    height: 100%;
+    width: 100%;
+    background-color: #f37171;
+    position: absolute;
+}
+
+.formDiv {
+    background-color: white;
+}
+
+.innerDiv {
+    padding: 3%;
+    display: flex;
+    align-items: center;
+    height: 80%;
+    width: 90%;
+    margin: 5%;
+}
+
+.input {
+    float: left;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    width: 30%;
+}
+
+.submitButton {
+    width: 60%;
+    margin: auto;
+}
+
+.imageDiv {
+    padding: 5%;
+}

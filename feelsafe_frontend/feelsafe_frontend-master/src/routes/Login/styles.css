@@ -1,0 +1,32 @@
+.mainLogin {
+    height: 100%;
+    width: 100%;
+    background-color: #f37171;
+    position: absolute;
+}
+
+.formDiv {
+    background-color: white;
+    padding:3%;
+}
+
+.innerLoginDiv {
+    background-color: #f37171;
+    padding: 3%;
+    display: flex;
+    align-items: center;
+    height: 80%;
+    width: 90%;
+    margin: 5%;
+}
+
+.inputDiv {
+    margin-top: 4%;
+    margin-bottom: 4%;
+    height: 7%;
+    width: 60%;
+}
+
+.imageDiv {
+    padding: 5%;
+}

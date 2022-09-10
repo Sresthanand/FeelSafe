@@ -1,0 +1,11 @@
+.mainInnerMapScreen {
+    background-color: #f37171;
+    position: absolute;
+    padding: 20%;
+    height: 100vh;
+    width: 99vw;
+}
+
+.break{
+    height:3vh;
+}

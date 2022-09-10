@@ -1,0 +1,27 @@
+.mainActions {
+    background-image: url("../../assets/images/background.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 5%;
+}
+
+.row {
+    margin-top: 6%;
+}
+
+.actionDiv {
+    display: flex;
+    margin-bottom: 4%;
+    padding: 1%;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    height: fit-content;
+}
+
+.actionDiv:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
